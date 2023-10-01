@@ -1,0 +1,1214 @@
+fileFormatVersion: 2
+guid: 0295180fcc6024948a5f21499cc273a6
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: fighter_first_left-PhotoRoom.png-PhotoRoom_1
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 899
+        width: 76
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f9051c8588f4c148accaf30846a430c
+      internalID: 1858617166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter_first_left-PhotoRoom.png-PhotoRoom_2
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 897
+        width: 74
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b243afe20fc8d34c905927bbb0ee2f6
+      internalID: 1935877394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter_first_left-PhotoRoom.png-PhotoRoom_3
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 895
+        width: 62
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 603e4635f32adc948baeb10567fffff6
+      internalID: -469468617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter_first_left-PhotoRoom.png-PhotoRoom_4
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 895
+        width: 63
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8001830ae855c104c8412114b778bc3f
+      internalID: -881943871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter_first_left-PhotoRoom.png-PhotoRoom_5
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 895
+        width: 59
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15975a3bed2c78c47932e60eedb3cc10
+      internalID: 906328686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter_first_left-PhotoRoom.png-PhotoRoom_6
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 894
+        width: 61
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ed175b8769082f41b94bbc9241fae0e
+      internalID: -1540988554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter_first_left-PhotoRoom.png-PhotoRoom_7
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 897
+        width: 76
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 411d3a0b8d9399f49ba3cec06e67f473
+      internalID: 714561015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter_first_left-PhotoRoom.png-PhotoRoom_8
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 767
+        width: 75
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 496cd970bea379b46a3997cf1ab99890
+      internalID: 895976416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter_first_left-PhotoRoom.png-PhotoRoom_9
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 767
+        width: 60
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77a2aa3d71aab7c479a24b342c1b671a
+      internalID: -1762329475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter_first_left-PhotoRoom.png-PhotoRoom_10
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 769
+        width: 67
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f304c8b20c456ea46a104be060381073
+      internalID: -211014469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter_first_left-PhotoRoom.png-PhotoRoom_11
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 769
+        width: 75
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffd3e58f4bbed1547a9f8499c17758b9
+      internalID: 405906448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter_first_left-PhotoRoom.png-PhotoRoom_12
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 769
+        width: 99
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65423b60a24456142b1f6e82790c59ae
+      internalID: 2142273225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter_first_left-PhotoRoom.png-PhotoRoom_13
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 769
+        width: 93
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6d64c3905714c940b6c53312fcb4153
+      internalID: -1860229419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter_first_left-PhotoRoom.png-PhotoRoom_14
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 798
+        width: 56
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5099e74c5ad7f454d828650d685fabad
+      internalID: 1871039171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter_first_left-PhotoRoom.png-PhotoRoom_15
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 812
+        width: 94
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b43c9c99f98230b41a21e6ee2ed02359
+      internalID: -301508833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter_first_left-PhotoRoom.png-PhotoRoom_16
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 639
+        width: 52
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec8fa29d039935848bbe1ec6a933a1de
+      internalID: 1650916132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter_first_left-PhotoRoom.png-PhotoRoom_17
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 638
+        width: 89
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4942cd530b6d33458b4413bda5be908
+      internalID: 1605304214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter_first_left-PhotoRoom.png-PhotoRoom_18
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 639
+        width: 43
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ac2d5733b00c9842abed14d374c8199
+      internalID: -790001411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter_first_left-PhotoRoom.png-PhotoRoom_19
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 658
+        width: 60
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6b60dc4790326e498ba550d424fcd9d
+      internalID: -1192957168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter_first_left-PhotoRoom.png-PhotoRoom_20
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 703
+        width: 59
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a678348b2070c714db83248e75a3ebf0
+      internalID: 1020571246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter_first_left-PhotoRoom.png-PhotoRoom_21
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 709
+        width: 54
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5252b2fb7035596448c6d3e04eba6064
+      internalID: 1318588742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter_first_left-PhotoRoom.png-PhotoRoom_22
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 709
+        width: 57
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfe5baec66f412442a2197ce4e7ccd51
+      internalID: -666350620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter_first_left-PhotoRoom.png-PhotoRoom_23
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 690
+        width: 65
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3d010627f15ae34891acd9a05aa2f19
+      internalID: -1263866400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter_first_left-PhotoRoom.png-PhotoRoom_24
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 513
+        width: 49
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bf975c91a0bae74680ce3e6b8b1632e
+      internalID: -1198984802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter_first_left-PhotoRoom.png-PhotoRoom_25
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 513
+        width: 59
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c031faaf65b8c24bab55b8745bc5c9a
+      internalID: -1145727401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter_first_left-PhotoRoom.png-PhotoRoom_26
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 514
+        width: 54
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36dc4abaff845d346b06b7a87eceac97
+      internalID: -367061711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter_first_left-PhotoRoom.png-PhotoRoom_27
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 514
+        width: 59
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd8001435f1e91a4792ee43bd826dde7
+      internalID: -509873880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter_first_left-PhotoRoom.png-PhotoRoom_28
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 514
+        width: 50
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e89878e37fdfd0941b71d559b1254623
+      internalID: -1963006761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter_first_left-PhotoRoom.png-PhotoRoom_29
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 514
+        width: 53
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b270345256049be4ea256fcb7c0222a9
+      internalID: -1837945541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter_first_left-PhotoRoom.png-PhotoRoom_30
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 515
+        width: 86
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca419aab27dadf749bf5f38500c3bfa5
+      internalID: 1806400003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter_first_left-PhotoRoom.png-PhotoRoom_31
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 514
+        width: 108
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c78defe32f162445b9fba2ffa1bd99d
+      internalID: -1397596820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter_first_left-PhotoRoom.png-PhotoRoom_32
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 387
+        width: 42
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6f02c2f2a3f8ac4bb0d21227a6f0d6f
+      internalID: -368778984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter_first_left-PhotoRoom.png-PhotoRoom_33
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 386
+        width: 62
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7b9768e20701014f8f5d9d4a3567f83
+      internalID: 1321024415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter_first_left-PhotoRoom.png-PhotoRoom_34
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 385
+        width: 72
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff2c956c76170dd42921626429c448b4
+      internalID: -1312249588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter_first_left-PhotoRoom.png-PhotoRoom_35
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 385
+        width: 62
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23c739dab4965c64cbb22bee55d381f2
+      internalID: 1900026088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter_first_left-PhotoRoom.png-PhotoRoom_36
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 382
+        width: 90
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9b632195d582e6418fba5dde198b590
+      internalID: 459779468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter_first_left-PhotoRoom.png-PhotoRoom_37
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 385
+        width: 64
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfcd7386fcfaeb04784cb04798f5c429
+      internalID: 433724994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter_first_left-PhotoRoom.png-PhotoRoom_38
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 386
+        width: 62
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec7f7b3129c113941a474af5dbbda483
+      internalID: -101844340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter_first_left-PhotoRoom.png-PhotoRoom_39
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 386
+        width: 44
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03190a65fe676824ebc030fb294d1286
+      internalID: 1680411739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter_first_left-PhotoRoom.png-PhotoRoom_40
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 259
+        width: 82
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b70f70336eba9f5458fb67d867048912
+      internalID: -88331530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter_first_left-PhotoRoom.png-PhotoRoom_41
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 258
+        width: 99
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96c20ea4156e94b4881b1f19343263d5
+      internalID: -1689531057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter_first_left-PhotoRoom.png-PhotoRoom_42
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 258
+        width: 52
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2973aef1374feb64a840a9f221633448
+      internalID: 528542609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter_first_left-PhotoRoom.png-PhotoRoom_43
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 291
+        width: 64
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 843554d134128f34fa09075f65d0cc18
+      internalID: -494364266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter_first_left-PhotoRoom.png-PhotoRoom_44
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 279
+        width: 92
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4950c23582d359498544d53ba9b7007
+      internalID: -1878360649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter_first_left-PhotoRoom.png-PhotoRoom_45
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 271
+        width: 102
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ac724f9a439ed441acf5448873c81f8
+      internalID: 50761232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter_first_left-PhotoRoom.png-PhotoRoom_46
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 255
+        width: 107
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33b6c8d4f1420f049a658b1a5d59a8ed
+      internalID: -1023080808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter_first_left-PhotoRoom.png-PhotoRoom_47
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 254
+        width: 107
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d20ad0acf9908d4b9a7cfc6ff7b4d1b
+      internalID: -1593512107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter_first_left-PhotoRoom.png-PhotoRoom_48
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 129
+        width: 74
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49d23ac565c90ed4e84f4142be599152
+      internalID: -1931795649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter_first_left-PhotoRoom.png-PhotoRoom_49
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 129
+        width: 64
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 845237c2a6206d44fbf24be56c4e3d15
+      internalID: 1655776615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      fighter_first_left-PhotoRoom.png-PhotoRoom_5: 906328686
+      fighter_first_left-PhotoRoom.png-PhotoRoom_32: -368778984
+      fighter_first_left-PhotoRoom.png-PhotoRoom_21: 1318588742
+      fighter_first_left-PhotoRoom.png-PhotoRoom_23: -1263866400
+      fighter_first_left-PhotoRoom.png-PhotoRoom_24: -1198984802
+      fighter_first_left-PhotoRoom.png-PhotoRoom_14: 1871039171
+      fighter_first_left-PhotoRoom.png-PhotoRoom_35: 1900026088
+      fighter_first_left-PhotoRoom.png-PhotoRoom_16: 1650916132
+      fighter_first_left-PhotoRoom.png-PhotoRoom_13: -1860229419
+      fighter_first_left-PhotoRoom.png-PhotoRoom_20: 1020571246
+      fighter_first_left-PhotoRoom.png-PhotoRoom_7: 714561015
+      fighter_first_left-PhotoRoom.png-PhotoRoom_48: -1931795649
+      fighter_first_left-PhotoRoom.png-PhotoRoom_25: -1145727401
+      fighter_first_left-PhotoRoom.png-PhotoRoom_0: 959238460
+      fighter_first_left-PhotoRoom.png-PhotoRoom_17: 1605304214
+      fighter_first_left-PhotoRoom.png-PhotoRoom_30: 1806400003
+      fighter_first_left-PhotoRoom.png-PhotoRoom_2: 1935877394
+      fighter_first_left-PhotoRoom.png-PhotoRoom_9: -1762329475
+      fighter_first_left-PhotoRoom.png-PhotoRoom_8: 895976416
+      fighter_first_left-PhotoRoom.png-PhotoRoom_33: 1321024415
+      fighter_first_left-PhotoRoom.png-PhotoRoom_12: 2142273225
+      fighter_first_left-PhotoRoom.png-PhotoRoom_47: -1593512107
+      fighter_first_left-PhotoRoom.png-PhotoRoom_45: 50761232
+      fighter_first_left-PhotoRoom.png-PhotoRoom_41: -1689531057
+      fighter_first_left-PhotoRoom.png-PhotoRoom_43: -494364266
+      fighter_first_left-PhotoRoom.png-PhotoRoom_19: -1192957168
+      fighter_first_left-PhotoRoom.png-PhotoRoom_18: -790001411
+      fighter_first_left-PhotoRoom.png-PhotoRoom_31: -1397596820
+      fighter_first_left-PhotoRoom.png-PhotoRoom_42: 528542609
+      fighter_first_left-PhotoRoom.png-PhotoRoom_46: -1023080808
+      fighter_first_left-PhotoRoom.png-PhotoRoom_6: -1540988554
+      fighter_first_left-PhotoRoom.png-PhotoRoom_22: -666350620
+      fighter_first_left-PhotoRoom.png-PhotoRoom_10: -211014469
+      fighter_first_left-PhotoRoom.png-PhotoRoom_49: 1655776615
+      fighter_first_left-PhotoRoom.png-PhotoRoom_38: -101844340
+      fighter_first_left-PhotoRoom.png-PhotoRoom_39: 1680411739
+      fighter_first_left-PhotoRoom.png-PhotoRoom_27: -509873880
+      fighter_first_left-PhotoRoom.png-PhotoRoom_15: -301508833
+      fighter_first_left-PhotoRoom.png-PhotoRoom_28: -1963006761
+      fighter_first_left-PhotoRoom.png-PhotoRoom_36: 459779468
+      fighter_first_left-PhotoRoom.png-PhotoRoom_3: -469468617
+      fighter_first_left-PhotoRoom.png-PhotoRoom_1: 1858617166
+      fighter_first_left-PhotoRoom.png-PhotoRoom_40: -88331530
+      fighter_first_left-PhotoRoom.png-PhotoRoom_37: 433724994
+      fighter_first_left-PhotoRoom.png-PhotoRoom_44: -1878360649
+      fighter_first_left-PhotoRoom.png-PhotoRoom_29: -1837945541
+      fighter_first_left-PhotoRoom.png-PhotoRoom_34: -1312249588
+      fighter_first_left-PhotoRoom.png-PhotoRoom_26: -367061711
+      fighter_first_left-PhotoRoom.png-PhotoRoom_4: -881943871
+      fighter_first_left-PhotoRoom.png-PhotoRoom_11: 405906448
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
